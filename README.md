@@ -1,4 +1,4 @@
-<body>
+
     <h1>Password Generator</h1>
     <p>
         This Password Generator is a simple web application built using Flask, designed to create secure passwords based on user-defined lengths. The application employs Bootstrap for a responsive front-end layout, ensuring an engaging user experience. With randomization of characters, including letters, numbers, and symbols, users can generate strong passwords suitable for various applications.
@@ -44,4 +44,3 @@ python app.py</code></pre>
     <p>
         This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
     </p>
-</body>
